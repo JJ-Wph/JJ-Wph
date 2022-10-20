@@ -1,16 +1,30 @@
 👋 Hi, I’m Kuba, Junior Frontend Developer from Lodz (Poland)
 
-🌱 I’m currently learning:
-✅HTML&CSS
+🌱 My learning path:
+
+✅HTML
+
+✅CSS
+
 ✅Javascript
+
 ✅Git
+
 ✅Vue.JS
+
 ✅Vuex
+
 ➡️Bootstrap
+
 ➡️SCSS
+
 ➡️Typescript
 
+
+
+
 - 📫 How to reach me:
+
 🔹 kuba.wypych92@gmail.com
 🔹 https://www.linkedin.com/in/jakub-wypych-763734164/
 
