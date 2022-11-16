@@ -13,14 +13,13 @@
 🌱 Next steps:  
 ➡️SCSS  
 ➡️Typescript  
+  
+  
+    
+    
+📫 How to reach me:
 
-
-
-
-
-- 📫 How to reach me:
-
-🔹 kuba.wypych92@gmail.com
+🔹 kuba.wypych92@gmail.com  
 🔹 https://www.linkedin.com/in/jakub-wypych-763734164/
 
 
