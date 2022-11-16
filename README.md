@@ -1,24 +1,19 @@
 👋 Hi, I’m Kuba, Junior Frontend Developer from Lodz (Poland)
 
-🌱 My learning path:
+🌱 My techstack:
 
-✅HTML
+✅HTML  
+✅CSS   
+✅Javascript  
+✅Git  
+✅Vue.JS   
+✅Vuex   
+✅Bootstrap
 
-✅CSS
+🌱 Next steps:  
+➡️SCSS  
+➡️Typescript  
 
-✅Javascript
-
-✅Git
-
-✅Vue.JS
-
-✅Vuex
-
-➡️Bootstrap
-
-➡️SCSS
-
-➡️Typescript
 
 
 
