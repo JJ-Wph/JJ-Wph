@@ -8,12 +8,14 @@
 ✅Git  
 ✅Vue.JS   
 ✅Vuex   
+✅Pinia
+✅Vite
 ✅Bootstrap
 
 🌱 Next steps:  
-➡️SCSS  
 ➡️Typescript  
-  
+➡️SCSS  
+
   
     
     
