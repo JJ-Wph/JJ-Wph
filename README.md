@@ -8,10 +8,10 @@
 ✅Git  
 ✅Vue.JS   
 ✅Vuex   
-✅Pinia
-✅Vite
-✅Bootstrap
-
+✅Pinia    
+✅Vite   
+✅Bootstrap    
+    
 🌱 Next steps:  
 ➡️Typescript  
 ➡️SCSS  
