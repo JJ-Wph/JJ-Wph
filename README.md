@@ -7,6 +7,7 @@
 ✅Javascript  
 ✅Git  
 ✅Vue.JS   
+✅vue-router
 ✅Vuex   
 ✅Pinia    
 ✅Vite   
